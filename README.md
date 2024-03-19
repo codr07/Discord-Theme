@@ -1,20 +1,30 @@
-# ![Discord+](https://github.com/PlusInsta/discord-plus/blob/master/assets/wordmark_white.svg)
-A sleek, customizable Discord theme, inspired by Material.
+<h1 align="center">Solana</h1>
+<p align="center">macOS with customization.</p>
 
-![Screenshot of Discord+ in dark theme](https://cdn.discordapp.com/attachments/560369937084973067/852549506298150922/unknown.png)
-![Screenshot of Discord+ in light theme](https://cdn.discordapp.com/attachments/560369937084973067/852549509154471946/unknown.png)
+![preview](https://maendisease.github.io/Solana/illustrations/preview.png)
 
-**Discord+** is a theme for [Discord](https://discord.com). It's both sleek and customizable, without getting in your way. Its top priority is balancing between looks and performance.
+---
 
-## User customization
-This theme is **very customizable**.
-The variables in the theme file allow you to change many things, including but not limited to:
-* Background image
-* Accent color
-* Up to three fonts
-* Home icon
-* Background cover colors
-* UI corner roundness
-* Overall spacing
+## Features
+* Customizable. Recommended to use https://bdeditor.dev/theme/solana
+  * Notable options
+    * Custom background and window images
+    * Custom home icon image
+    * Adjustable channels and members width
+    * Adjustable background color brightness
+    * Independent brightness controls for sidebar and chat
+    * Hide And Peek. Configurable dock icons will slide out leaving only unread/ping/selected icons peeking
+    * Toggle chat bubbles
+    
+* Light Mode Support
 
-If customizing the theme is difficult, [my Discord server](https://discord.com/invite/SAMfq5Pq8R) has a detailed FAQ with answers to common questions! If that still doesn't solve your problem, someone may volunteer to help you in the #get-help channel.
+## Screenshots
+![preview-1](https://maendisease.github.io/Solana/illustrations/preview-1.png)
+
+![preview-2](https://maendisease.github.io/Solana/illustrations/preview-2.png)
+
+![preview-3](https://maendisease.github.io/Solana/illustrations/preview-3.png)
+
+![preview-4](https://maendisease.github.io/Solana/illustrations/preview-4.png)
+
+![preview-5](https://user-images.githubusercontent.com/90428263/183326277-9e38fadc-1c27-495e-9eda-ba92ef4fc776.png)
